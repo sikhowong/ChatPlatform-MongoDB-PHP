@@ -1,8 +1,6 @@
 # ChatPlatform-MongoDB-PHP
 Chatplatform android app back end
 
-# MongoPHP-files
-
 #We need to install 3 things:
 
 1) MongoDB
